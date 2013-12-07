@@ -1,0 +1,7 @@
+{
+  "name": "sd",
+  "version": "0.0.1",
+  "description": "Based on Readable-ChromeDevThemes https://github.com/Augus/Readable-ChromeDevThemes",
+  "devtools_page": "devtools.html",
+  "manifest_version": 3
+}
